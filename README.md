@@ -13,6 +13,9 @@
 9. Update the dvc.yaml
 
 
+# mlfow & dagshub
+connect mlflow w/ URI in sec.txt
+
 # dvc pipeline exec
 dvc init
 dvc repro
